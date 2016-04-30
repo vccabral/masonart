@@ -1,2 +1,7 @@
 venv
 test-image-cover.jpeg
+*.jpeg
+*.jpg
+.DS_Store
+mason_art.cvs
+mason_art.txt

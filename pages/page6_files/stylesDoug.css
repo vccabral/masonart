@@ -1,0 +1,248 @@
+
+@import url(http://fonts.googleapis.com/css?family=Muli:300,400);
+@import url(http://fonts.googleapis.com/css?family=Oswald);
+@import url(http://fonts.googleapis.com/css?family=Montserrat:400,700);
+
+
+body {
+	padding-bottom: 40px;
+	width: 100%;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 18px;
+	background-color: #41392c;
+	background-image: url(../images/siteBG.jpg);
+	background-position:center; 
+	background-repeat:repeat-y;
+}
+
+h1,h2 {font-family:'Muli',sans-serif;font-weight:normal;}
+
+body {color:#FFFFFF;}
+	h1 {margin:0;font-size:74px;line-height:80px;letter-spacing: -5px;}
+	h2 {margin:0;font-size:45px;line-height:50px;letter-spacing: -4px;}
+	h3 {margin:0;font-size:18px;line-height:24px;}
+	
+body.landing.paint-color div.content_wrapper.content_wrapper-942.content_wrapper-header {margin-left:200px;}
+body.landing.paint-color div.content_wrapper.content_wrapper-942.content_wrapper-header.floor_coatings{margin-left:10px; margin-bottom:30px;} 
+
+body.home div.panel_single div.copy {padding-left:306px;width:435px;}
+
+body.interior-product-detail div.content_wrapper h1 {width:770px;}
+
+div.content_wrapper-header {clear:left;margin-left:14px;padding:13px 0 0px;font-family:'Muli',sans-serif;font-weight:normal;color:#FFFFFF;}
+div.content_wrapper-header h1 {font-size:50px;font-weight:bold;line-height:65px;letter-spacing:-2px;color:#FFFFFF;}
+div.content_wrapper-header div.copy {margin:0;font-size:18px;line-height:21px;font-weight:normal;}
+
+body.interior-products div.content_wrapper-header {padding-bottom: 120px;}
+body.interior-product-detail div.content_wrapper-header {padding: 27px 0px 25px 0px;}
+
+body.landing h2 {font-size:30px;line-height:36px;letter-spacing:-2px;}
+
+body.landing div.panel_single {width:627px;height:183px;}
+
+body.interior-howto-details div.content_wrapper h1 {font-size:35px;line-height:35px;}
+
+/*body.interior-project-ideas.article-TruetoHue div.content_bg-970 {width:1160px;}
+body.interior-project-ideas.article-TruetoHue div.content_wrapper-942 {width:1160px;}
+body.interior-project-ideas.article-TruetoHue div.pre_header a.nav_item.nav_item-active {margin-left: 109px;}
+body.interior-project-ideas.article-TruetoHue div.content_wrapper-header h1 {font-family:'Oswald',sans-serif; font-size:131px; margin: 68px 0px 0px 100px; letter-spacing: -4px; line-height: 155px; overflow: visible;}
+body.interior-project-ideas.article-TruetoHue div.footer-top_banner a.icon-email {margin-left: 109px;}
+body.interior-project-ideas.article-TruetoHue div.footer-top_banner a.orange_button {margin:6px 109px 0 20px;}
+body.interior-project-ideas.article-TruetoHue div.footer div.copyright_block {margin-left: 109px;}
+body.interior-project-ideas.article-TruetoHue div.footer div.footer_menu {margin-right: 109px;}
+body.interior-project-ideas.article-TruetoHue div.footer div.location {margin-left: 109px;}*/
+body.interior-project-ideas.article-TruetoHue sup {bottom: 2.5ex; font-size:7px;}
+body.interior-project-ideas.article-TruetoHue div.content_wrapper-header h1 {font-family:'Oswald',sans-serif; font-size:131px; letter-spacing:-4px; line-height:155px; overflow:visible; margin-top:68px; visibility:hidden;}
+body.interior-project-ideas.article-TruetoHue div.footer div.location {top:185px;}
+body.interior-project-ideas.article-TruetoHue div.no_slider div.bg {top: 0px;}
+
+/* 2016 True To Hue */
+body.interior-project-ideas.article-tth sup {bottom: 2.5ex; font-size:7px;}
+body.interior-project-ideas.article-tth div.content_wrapper-header h1 {font-size:131px; letter-spacing:-4px; line-height:155px; overflow:visible; margin-top:68px; visibility:hidden;}
+body.interior-project-ideas.article-tth div.content_wrapper-942 {overflow:visible;}
+body.interior-project-ideas.article-tth div.footer div.location {top:240px;}
+body.interior-project-ideas.article-tth div.no_slider div.bg {top: 0px; height:924px;}
+body.interior-project-ideas.article-tth div.overlay div.overlay-bottom {border-top:hidden;background-color:#fff; position:absolute; margin-top:0px;}
+
+/* Infographic */
+body.infographic sup {bottom: 2.5ex; font-size:7px;}
+body.infographic div.content_wrapper-header h1 {font-size:131px; letter-spacing:-4px; line-height:155px; overflow:visible; margin-top:68px; visibility:hidden;}
+body.infographic div.content_wrapper-942 {overflow:visible;}
+body.infographic div.footer div.location {top:240px;}
+body.infographic div.no_slider div.bg {top: 0px; height:924px;}
+body.infographic div.overlay div.overlay-bottom {border-top:hidden;background-color:#fff; position:absolute; margin-top:0px;}
+
+/* Marquee Landing */
+body.interior-project-ideas.article-BEHRMARQUEEsupregsupInteriorColorCollection sup {bottom: 2.5ex; font-size:7px;}
+body.interior-project-ideas.article-BEHRMARQUEEsupregsupInteriorColorCollection div.content_wrapper-header h1 {font-size:131px; letter-spacing:-4px; line-height:155px; overflow:visible; margin-top:68px; visibility:hidden;}
+body.interior-project-ideas.article-BEHRMARQUEEsupregsupInteriorColorCollection div.content_wrapper-942 {overflow:visible;}
+body.interior-project-ideas.article-BEHRMARQUEEsupregsupInteriorColorCollection div.footer div.location {top:240px;}
+body.interior-project-ideas.article-BEHRMARQUEEsupregsupInteriorColorCollection div.no_slider div.bg {top: 0px; height:924px;}
+body.interior-project-ideas.article-BEHRMARQUEEsupregsupInteriorColorCollection div.overlay div.overlay-bottom {border-top:hidden;background-color:#fff; position:absolute; margin-top:0px;}
+
+/* Marquee Landing 2106 */
+body.interior-project-ideas.article-mqi sup {bottom: 2.5ex; font-size:7px;}
+body.interior-project-ideas.article-mqi div.content_wrapper-header h1 {font-size:131px; letter-spacing:-4px; line-height:155px; overflow:visible; margin-top:68px; visibility:hidden;}
+body.interior-project-ideas.article-mqi div.content_wrapper-942 {overflow:visible;}
+body.interior-project-ideas.article-mqi div.footer div.location {top:240px;}
+body.interior-project-ideas.article-mqi div.no_slider div.bg {top: 0px; height:1279px;}
+body.interior-project-ideas.article-mqi div.overlay div.overlay-bottom {border-top:hidden;background-color:#fff; position:absolute; margin-top:0px;}
+
+
+body.interior-project-ideas.article-DeckOverRollover sup {bottom: 2.5ex; font-size:7px;}
+body.interior-project-ideas.article-DeckOverRollover div.content_wrapper-header h1 {font-size:131px; letter-spacing:-4px; line-height:155px; overflow:visible; margin-top:68px; visibility:hidden;}
+body.interior-project-ideas.article-DeckOverRollover div.content_wrapper-942 {overflow:visible;}
+body.interior-project-ideas.article-DeckOverRollover div.footer div.location {top:185px;}
+body.interior-project-ideas.article-DeckOverRollover div.no_slider div.bg {top: 0px; height:924px;}
+
+body.paintingforgood div.no_slider div.bg {height:873px;}
+
+/*DESIGNER STORIES - gray fix*/
+body.designer-stories div.content_bg-970 {width:1160px;}
+body.designer-stories div.content_wrapper-942 {width:1160px;}
+body.designer-stories div.footer-top_banner a.icon-email {margin-left: 109px;}
+body.designer-stories div.footer-top_banner a.orange_button {margin:6px 109px 0 20px;}
+body.designer-stories div.footer div.copyright_block {margin-left: 109px;}
+body.designer-stories div.footer div.footer_menu {margin-right: 109px;}
+body.designer-stories div.footer div.location {margin-left: 109px;}
+
+/* DESIGNER STORIES - LANDING PAGE INDEX */
+body.designer_stories_landing div.no_slider div.bg { top:0px; }
+body.designer_stories_landing div.page_wrapper div.content_bg-970 { width:970px; height:7356px; }
+
+/* Food Network expansion */
+body.interior-project-ideas.article-FoodNetworkTheKitchenpresents sup {bottom: 2.5ex; font-size:7px;}
+body.interior-project-ideas.article-FoodNetworkTheKitchenpresents div.content_wrapper-header h1 {font-size:131px; letter-spacing:-4px; line-height:155px; overflow:visible; margin-top:68px; visibility:hidden;}
+body.interior-project-ideas.article-FoodNetworkTheKitchenpresents div.content_wrapper-942 {overflow:visible;}
+body.interior-project-ideas.article-FoodNetworkTheKitchenpresents div.footer div.location {top:240px;}
+body.interior-project-ideas.article-FoodNetworkTheKitchenpresents div.no_slider div.bg {top: 0px; height:924px;}
+
+body.interior-project-ideas.article-BEHRMARQUEEsupregsupExteriorCollection sup {bottom: 2.5ex; font-size:7px;}
+body.interior-project-ideas.article-BEHRMARQUEEsupregsupExteriorCollection div.content_wrapper-header h1 {font-size:131px; letter-spacing:-4px; line-height:155px; overflow:visible; margin-top:68px; visibility:hidden;}
+body.interior-project-ideas.article-BEHRMARQUEEsupregsupExteriorCollection div.content_wrapper-942 {overflow:visible;}
+body.interior-project-ideas.article-BEHRMARQUEEsupregsupExteriorCollection div.footer div.location {top:240px;}
+body.interior-project-ideas.article-BEHRMARQUEEsupregsupExteriorCollection div.no_slider div.bg {top: 0px; height:924px;}
+
+/* JD Power Award expansion */
+body.interior-project-ideas.article-JDPower sup {bottom: 2.5ex; font-size:7px;}
+body.interior-project-ideas.article-JDPower div.content_wrapper-header h1 {font-size:131px; letter-spacing:-4px; line-height:155px; overflow:visible; margin-top:68px; visibility:hidden;}
+body.interior-project-ideas.article-JDPower div.content_wrapper-942 {overflow:visible;}
+body.interior-project-ideas.article-JDPower div.footer div.location {top:240px;}
+body.interior-project-ideas.article-JDPower div.no_slider div.bg {top: 0px; height:924px;}
+
+/* Trends 16 */
+body.interior-project-ideas.article-Trends sup {bottom: 2.5ex; font-size:7px;}
+body.interior-project-ideas.article-Trends div.content_wrapper-header h1 {font-size:131px; letter-spacing:-4px; line-height:155px; overflow:visible; margin-top:68px; visibility:hidden;}
+body.interior-project-ideas.article-Trends div.content_wrapper-942 {overflow:visible;}
+body.interior-project-ideas.article-Trends div.footer div.location {top:240px;}
+body.interior-project-ideas.article-Trends div.no_slider div.bg {top: 0px; height:1105px;}
+
+/* Marquee Landing Page CANADA */
+body.interior-project-ideas.article-BEHRMARQUEEInteriorOneCoatColourCollectionGuarantee sup {bottom: 2.5ex; font-size:7px;}
+body.interior-project-ideas.article-BEHRMARQUEEInteriorOneCoatColourCollectionGuarantee div.content_wrapper-header h1 {font-size:131px; letter-spacing:-4px; line-height:155px; overflow:visible; margin-top:68px; visibility:hidden;}
+body.interior-project-ideas.article-BEHRMARQUEEInteriorOneCoatColourCollectionGuarantee div.content_wrapper-942 {overflow:visible;}
+body.interior-project-ideas.article-BEHRMARQUEEInteriorOneCoatColourCollectionGuarantee div.footer div.location {top:240px;}
+body.interior-project-ideas.article-BEHRMARQUEEInteriorOneCoatColourCollectionGuarantee div.no_slider div.bg {top: 0px; height:924px;}
+
+/* Marquee Guarantee */
+body.interior-project-ideas.article-BEHRMARQUEEsupregsupInteriorOneCoatColorCollectionGuarantee sup {bottom: 2.5ex; font-size:7px;}
+body.interior-project-ideas.article-BEHRMARQUEEsupregsupInteriorOneCoatColorCollectionGuarantee div.content_wrapper-header h1 {font-size:131px; letter-spacing:-4px; line-height:155px; overflow:visible; margin-top:68px; visibility:hidden;}
+body.interior-project-ideas.article-BEHRMARQUEEsupregsupInteriorOneCoatColorCollectionGuarantee div.content_wrapper-942 {overflow:visible;}
+body.interior-project-ideas.article-BEHRMARQUEEsupregsupInteriorOneCoatColorCollectionGuarantee div.footer div.location {top:240px;}
+body.interior-project-ideas.article-BEHRMARQUEEsupregsupInteriorOneCoatColorCollectionGuarantee div.no_slider div.bg {top: 0px; height:1090px;}
+
+/* Food Network Fixer Upper */
+body.interior-project-ideas.article-FoodNetworkTheKitchenRd sup {bottom: 2.5ex; font-size:7px;}
+body.interior-project-ideas.article-FoodNetworkTheKitchenRd div.content_wrapper-header h1 {font-size:131px; letter-spacing:-4px; line-height:155px; overflow:visible; margin-top:68px; visibility:hidden;}
+body.interior-project-ideas.article-FoodNetworkTheKitchenRd div.content_wrapper-942 {overflow:visible;}
+body.interior-project-ideas.article-FoodNetworkTheKitchenRd div.footer div.location {top:240px;}
+body.interior-project-ideas.article-FoodNetworkTheKitchenRd div.no_slider div.bg {top: 0px; height:924px;}
+
+
+
+body.landing-products div.panel h2 {line-height: 30px;} 
+body.landing-howto div.panel h2 {line-height: 30px;} 
+
+body.landing-inspiration div.content_wrapper-header {padding: 13px 0 100px;} 
+
+
+
+div.cs-panel.cs-panel-content-small {
+position: relative;
+float: left;
+width: 228px;
+margin: 12px 47px 10px 1px;
+}
+
+div.products div.products-product h4 {padding-top: 14px;}
+
+body.interior-inspiration-subpage div.full_wrapper div.slider.home_slider.page_wrapper div.slider_wrapper .slider_button {top: 303px;}
+
+div.page_wrapper.page_wrapper-color_galleries {margin-top: 310px;}
+
+body.interior-inspiration-project_ideas div.content_wrapper-header {padding-bottom: 60px;}
+
+body.interior-project-ideas.article-Buyyourpaintonline div.content_wrapper-header {padding: 13px 0px 23px;}
+
+body.interior-project-ideas.article-behr div.content_wrapper-header h1 {margin-top: -57px;}
+body.interior-project-ideas.article-behr div.content_wrapper-header {padding: 0px 0 0px;}
+
+	div.galleries-gallery a.color_gallery_scene:hover {opacity:0.7;filter:alpha(opacity=70);color:#8C7853;}
+	div.galleries-gallery {width:681px;overflow:auto;}
+		div.galleries-gallery h2, .inspiration-project_ideas-content h2 {
+			clear:left;
+			margin:0 0 20px;
+			width:681px;
+			font-size:30px;
+			line-height:44px;
+			color:#4B4B4B;
+			border-bottom:1px solid #4B4B4B;
+			font-family:'Open Sans','Helvetica Neue',Arial,sans-serif;
+			letter-spacing:-1px;
+		}
+
+body.interior-inspiration-subpage div.home_slider div.slider_content div.slider_hud {top: 469px;}
+
+div.shopping_cart_container p {font-size: 15px; line-height: 20px; margin-right: 20px;}
+
+body.interior-inspiration-subpage div.page_wrapper.page_wrapper-color_galleries {margin-top: 295px;}
+
+div.content_wrapper-942-video div.video_meta {float:right;padding:0 12px 0 19px;width:257px;height:388px;border:1px solid #C9C9C9;background-color:#FFFFFF;}
+div.content_wrapper-942-video h3 {line-height:22px;padding:0;margin:20px 0 12px;}
+div.content_wrapper-942-video h3.fbr {margin:0;padding:7px 8px 0px;}
+div.content_wrapper-942-video p {margin: 0px 9px 10px; color: #666666;}
+
+div.main_nav-dropdown.main_nav-dropdown-colors .main_nav-dropdown-column {width:190px;}
+div.main_nav-dropdown.main_nav-dropdown-colors .main_nav-dropdown-column.main_nav-dropdown-column-3 {width:190px;}
+div.main_nav-dropdown.main_nav-dropdown-colors .main_nav-dropdown-column.main_nav-dropdown-column-3 div.main_nav-dropdown-column-content {padding-top:69px;}
+
+div.main_nav-dropdown.main_nav-dropdown-inspiration .main_nav-dropdown-column {height:170px;}
+div.main_nav-dropdown.main_nav-dropdown-inspiration .main_nav-dropdown-column.main_nav-dropdown-column-3 div.main_nav-dropdown-column-content {padding-top:69px; padding-left: 69px;}
+
+div.main_nav-dropdown.main_nav-dropdown-products .main_nav-dropdown-column {height:210px;}
+div.main_nav-dropdown.main_nav-dropdown-products .main_nav-dropdown-column-1 {width:254px;}
+div.main_nav-dropdown.main_nav-dropdown-products .main_nav-dropdown-column.main_nav-dropdown-column-6 {width:253px;}
+div.main_nav-dropdown.main_nav-dropdown-products .main_nav-dropdown-column.main_nav-dropdown-column-6 div.main_nav-dropdown-column-content {padding-top:92px; padding-left:40px;}
+
+div.main_nav-dropdown.main_nav-dropdown-products .main_nav-dropdown-column.main_nav-dropdown-column-7 {width:253px;}
+div.main_nav-dropdown.main_nav-dropdown-products .main_nav-dropdown-column.main_nav-dropdown-column-7 div.main_nav-dropdown-column-content {padding-top:92px; padding-left:49px;}
+
+div.main_nav-dropdown.main_nav-dropdown-products .main_nav-dropdown-column.main_nav-dropdown-column-8 {width:253px;}
+div.main_nav-dropdown.main_nav-dropdown-products .main_nav-dropdown-column.main_nav-dropdown-column-8 div.main_nav-dropdown-column-content {padding-left:49px; padding-top:92px;}
+
+
+
+/* ======= salcala update ======= */
+
+/* page = "http://preview29.behr.com/consumer/products/choosing-the-right-paint" h3 title color */
+div.product_comparison_container h3{
+	/*color: rgb(172, 152, 115);*/
+	color: #4B4B4B;
+	font-size:22px;
+}
+
+body.interior.interior-project-ideas.article-welcome div.no_slider div.bg {height:2001px;}
+
+/* http://preview29.behr.com/consumer/colors/mobile-apps app button width default (android) */
+a.colorsmart-mobile-app_button { float:left; margin-right:12px; width:189px; height:57px; overflow:hidden; background-repeat:no-repeat; }
