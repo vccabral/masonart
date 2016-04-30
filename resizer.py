@@ -110,7 +110,7 @@ def write_counts_of_swatches(list_of_swatches):
 	csv_file = image_file.replace(".jpg", ".txt")
 	f = open(csv_file, 'w')
 	for swatch_count in swatch_counts.most_common():
-		f.write(str(swatch_count[1])+","+swatch_count[0][1])
+		f.write(str(swatch_count[1])+","+swatch_count[0][1].encode('utf-8'))
 		f.write('\n')
 	f.close()
 
